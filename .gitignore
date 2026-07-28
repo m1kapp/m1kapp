@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# 에디터 · 로컬 도구
+.vscode/
+.idea/
+*.swp
+
+# 로그 · 임시
+*.log
+tmp/
+.cache/
+
+# 환경변수 (이 저장소는 문서만 두지만, 사고 방지용)
+.env
+.env.*
+!.env.example
+
+# 인덱스 자동 생성물
+node_modules/
