@@ -33,6 +33,7 @@
 | **[maging](https://github.com/m1kapp/maging)** | 엔터프라이즈 리포트 빌더. 대시보드·주간보고·카드뉴스 생성 + 105개 브랜드 테마. CDN 한 줄. | [maging.m1k.app](https://maging.m1k.app) |
 | **[promptwing](https://github.com/m1kapp/promptwing)** | 프롬프트 도구. | [promptwing.m1k.app](https://promptwing.m1k.app) |
 | **[median-income-calc](https://github.com/m1kapp/median-income-calc)** | 중위소득 계산기. | [바로가기](https://median-income-calc.vercel.app) |
+| **[carboxsize](https://github.com/m1kapp/carboxsize)** | 자동차 크기 비교. 차를 상자로 바꿔서 **공간**(축거×전폭×전고)과 **외형**(전장×전폭×전고)을 m³로 잽니다. | [carboxsize.m1k.app](https://carboxsize.m1k.app) |
 
 ## 도구 · 라이브러리
 
