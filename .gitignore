@@ -18,3 +18,8 @@ tmp/
 
 # 인덱스 자동 생성물
 node_modules/
+
+# 여기 체크아웃돼 있지만 각자 독립 저장소인 것들 (지도만 두는 규칙 유지)
+/ax-lecture-site/
+/capability-cards/
+/cosmic-journey/
